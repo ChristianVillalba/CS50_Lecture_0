@@ -6,6 +6,8 @@ I created these projects based on the tutorial
 This is the Step B in my application to learn in **School of Code Bootcamp**:         
 Bootcamp Application: Scratch Task Stage
 
+## Description
+
 After watching the lecture, I was able to create a Scratch project of my choice that fulfils these standard CS50 requirements:
 
 ✓ My project is a playable game.       
@@ -15,3 +17,10 @@ After watching the lecture, I was able to create a Scratch project of my choice 
 ✓ My project uses at least one condition, one loop, and one variable.      
 ✓ My project uses at least one sound.      
 ✓ My project is more complex than most of those demonstrated in the lecture.      
+
+## What I have learnt with this project
+
+---
+---
+
+# Notes:
