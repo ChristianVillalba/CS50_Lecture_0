@@ -27,7 +27,10 @@ that fulfils these standard CS50 requirements:
   * Non-numerical values: from ASCII to Unicode
   * Colors: RGB system
   * Representation of images, videos and music
-* Algorithms: step by step instructions about how to solve problems 
+* Algorithms:
+ * Definition: step by step instructions about how to solve problems 
+ * Algorithm requirements: correct & precise
+ * Aim: Algorithms strive for efficiency
 
 ---
 ---
