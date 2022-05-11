@@ -8,15 +8,17 @@ Bootcamp Application: Scratch Task Stage
 
 ## Description
 
-After watching the lecture, I was able to create a Scratch project of my choice that fulfils these standard CS50 requirements:
+After watching the lecture, I will able to create a Scratch project of my choice         
+that fulfils these standard CS50 requirements:         
+[Mark with ✓ when a requirement is fufilled and tested]
 
-✓ My project is a playable game.       
-✓ My project takes the name of the user as input.      
-✓ My project tracks the score.      
-✓ My project has at least two sprites, at least one of which must resemble something other than a cat.      
-✓ My project uses at least one condition, one loop, and one variable.      
-✓ My project uses at least one sound.      
-✓ My project is more complex than most of those demonstrated in the lecture.      
+▢ My project is a playable game.       
+▢ My project takes the name of the user as input.      
+▢ My project tracks the score.      
+▢ My project has at least two sprites, at least one of which must resemble something other than a cat.      
+▢ My project uses at least one condition, one loop, and one variable.      
+▢ My project uses at least one sound.      
+▢ My project is more complex than most of those demonstrated in the lecture.      
 
 ## What I have learnt with this project
 * Computers, transistors, and the Binary System
@@ -25,7 +27,7 @@ After watching the lecture, I was able to create a Scratch project of my choice 
   * Non-numerical values: from ASCII to Unicode
   * Colors: RGB system
   * Representation of images, videos and music
-* Algorithms 
+* Algorithms: step by step instructions about how to solve problems 
 
 ---
 ---
