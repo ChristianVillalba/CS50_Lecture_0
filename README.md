@@ -1,6 +1,6 @@
 # CS50 2020 - Lecture 0 - Scratch
 
-I created these projects based on the tutorial       
+I created this project based on the tutorial       
 [CS50 2020 - Lecture 0 - Scratch](https://www.youtube.com/watch?v=YoXxevp1WRQ&ab_channel=CS50)
 
 This is the Step B in my application to learn in **School of Code Bootcamp**:         
@@ -19,6 +19,13 @@ After watching the lecture, I was able to create a Scratch project of my choice 
 ✓ My project is more complex than most of those demonstrated in the lecture.      
 
 ## What I have learnt with this project
+* Computers, transistors, and the Binary System
+* Computers and represention of information:
+  * Numerical values using the Binary System
+  * Non-numerical values: from ASCII to Unicode
+  * Colors: RGB system
+  * Representation of images, videos and music
+* Algorithms 
 
 ---
 ---
