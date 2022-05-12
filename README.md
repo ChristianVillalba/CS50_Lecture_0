@@ -28,10 +28,14 @@ that fulfils these standard CS50 requirements:
   * Colors: RGB system
   * Representation of images, videos and music
 * Algorithms:
- * Definition: step by step instructions about how to solve problems 
- * Algorithm requirements: correct & precise
- * Aim: Algorithms strive for efficiency
-
+  * Definition: step by step instructions about how to solve problems 
+  * Algorithm requirements: correct & precise
+  * Aim: Algorithms strive for efficiency
+* Pseudocode:
+  * Definition: nn artificial and informal language that helps programmers develop algorithms.
+  * Functions, Conditions, Booleans Expressions, Loops 
+  * Transitions from pseudocode to actuall code
+* Scratch 🐱 
 ---
 ---
 
