@@ -1,7 +1,7 @@
 # CS50 2020 - Lecture 0 - Scratch
 
 I created this project based on the tutorial       
-[CS50 2020 - Lecture 0 - Scratch](https://www.youtube.com/watch?v=YoXxevp1WRQ&ab_channel=CS50)
+[CS50 2020 - Lecture 0](https://www.youtube.com/watch?v=YoXxevp1WRQ&ab_channel=CS50)
 
 This is the Step B in my application to learn in **School of Code Bootcamp**:         
 Bootcamp Application: Scratch Task Stage
@@ -35,7 +35,9 @@ that fulfils these standard CS50 requirements:
   * Definition: nn artificial and informal language that helps programmers develop algorithms.
   * Functions, Conditions, Booleans Expressions, Loops 
   * Transitions from pseudocode to actuall code
-* Scratch 🐱 
+* [Scratch 🐱 ](https://scratch.mit.edu/)
+  * Scratch is block-based visual programming language and website aimed as an educational tool for programming.
+  * I made a Hello World as the tradition suggest.
 ---
 ---
 
